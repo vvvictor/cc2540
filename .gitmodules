@@ -1,0 +1,9 @@
+[submodule "ccsniffpiper"]
+	path = ccsniffpiper
+	url = https://github.com/andrewdodd/ccsniffpiper
+[submodule "cc2540"]
+	path = cc2540
+	url = https://github.com/bertrik/cc2540
+[submodule "ccsniffer"]
+	path = ccsniffer
+	url = https://github.com/christianpanton/ccsniffer
